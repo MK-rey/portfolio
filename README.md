@@ -2,7 +2,7 @@
 
 A single-page portfolio for marketing, brand, and APAC partnership roles.
 
-**Live site:** `https://<your-username>.github.io/<repo-name>/`
+**Live site:** `https://www.mijungk.com`
 *(replace with your custom domain once configured)*
 
 ## Stack
